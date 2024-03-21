@@ -15,7 +15,7 @@ Je suis également impliqué dans des projets en Python, où j'explore différen
 
 ## Me contacter 📧
 
-Vous pouvez me contacter par email à [votre@email.com](mailto:votre@email.com) ou via [LinkedIn](lien_vers_votre_profil_linkedin).
+Vous pouvez me contacter par email à [borne.yoan@gmail.com](mailto:borne.yoan@gmail.com) ou via [liLinkedIn](https://www.linkedin.com/in/yoan-borne/).
 
 N'hésitez pas à explorer mes projets ci-dessous et à me faire part de vos commentaires et suggestions !
 
