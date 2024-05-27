@@ -1,6 +1,6 @@
-# Bienvenue sur le profil de Yoan 👋
+# Bienvenue sur mon profil 👋
 
-## À propos de moi ℹ️
+## À propos ℹ️
 
 Je suis un développeur fullstack passionné, spécialisé dans les technologies suivantes :
 
