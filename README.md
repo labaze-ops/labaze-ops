@@ -4,7 +4,8 @@
 
 Je suis un développeur fullstack passionné, spécialisé dans les technologies suivantes :
 
-- **Frontend :** Utilisation de Webpack pour la gestion des dépendances et des builds.
+- **WEBPACK :** Utilisation de Webpack pour la gestion des dépendances et des builds.
+- **Frontend : ** ReactJS (REDUX), Angular (NGXS)
 - **Backend :** Expertise en PHP/Symfony pour la création d'applications web robustes.
 - **Base de données :** Expérience avec MongoDB, Mysql ou encore PostgreSQL.
 - **Stack MERN : ** Express.js, React.js et Node.js (la stack MERN) pour des applications modernes et scalables.
