@@ -10,7 +10,7 @@ Je suis un développeur fullstack passionné, spécialisé dans les technologies
 - **Base de données :** Expérience avec MongoDB, Mysql ou encore PostgreSQL.
 - **Stack MERN :$** Express.js, React.js et Node.js (la stack MERN) pour des applications modernes et scalables.
 - **Conteneurisation :** Utilisation de Docker pour l'isolation et la distribution des applications.
-- **Déploiement :** Me formant sur Kubernetes pour la gestion d'orchestration de conteneurs.
+- **Déploiement :** Me formant sur Kubernetes pour la gestion d'orchestration de conteneurs, également utilisation de Vercel.
 
 Je suis également impliqué dans des projets en Python, où j'explore différentes bibliothèques et frameworks pour résoudre des problèmes variés.
 
