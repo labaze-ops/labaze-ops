@@ -1,3 +1,4 @@
+[![snk](https://raw.githubusercontent.com/labaze-ops/labaze-ops/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/labaze-ops/labaze-ops/output/github-contribution-grid-snake.svg)
 # Bienvenue sur mon profil 👋
 
 ## À propos ℹ️
